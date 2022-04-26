@@ -11,9 +11,6 @@
     local-name: oomact
     uri: 'https://github.com/ethz-asl/oomact.git'
 - git:
-    local-name: aslam_cv2
-    uri: 'https://github.com/ethz-asl/aslam_cv2.git'
-- git:
     local-name: eigen_catkin
     uri: 'https://github.com/ethz-asl/eigen_catkin.git'
 - git:
@@ -32,12 +29,6 @@
     local-name: yaml_cpp_catkin
     uri: 'https://github.com/ethz-asl/yaml_cpp_catkin.git'
 - git:
-    local-name: ethzasl_apriltag2
-    uri: 'https://github.com/ethz-asl/ethzasl_apriltag2.git'
-- git:
-    local-name: opencv3_catkin
-    uri: 'https://github.com/ethz-asl/opencv3_catkin.git'
-- git:
     local-name: schweizer_messer
     uri: 'https://github.com/ethz-asl/schweizer_messer.git'
 - git:
@@ -49,9 +40,6 @@
 - git:
     local-name: suitesparse
     uri: 'https://github.com/ethz-asl/suitesparse.git'
-- git:
-    local-name: opengv
-    uri: 'https://github.com/ethz-asl/opengv.git'
 - git:
     local-name: hand_eye_calibration
     uri: 'https://github.com/ethz-asl/hand_eye_calibration.git'
